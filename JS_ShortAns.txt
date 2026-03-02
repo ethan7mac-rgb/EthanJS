@@ -1,0 +1,29 @@
+Write a JavaScript function, makeStars(num), that returns a string of [num] star characters ('*'). For example, calling makeStars(5) should return '*****'. Do not use the 'repeat' string method.
+
+function makeStars(num) {
+    let stars = '';
+    for (let i = 0; i < num; i++) {
+         stars += "*";
+    }
+    return stars;
+}
+
+Observe the HTML shown below. Note that the second instruction currently reads '[to do]'. Write the JavaScript code that will change that instruction to 'Toast the bread.'.
+
+window.onload=function(){
+    document.querySelector("#directions ol li:nth-child(2)").innerhtml = "Toast the bread";
+}
+
+Assume a HTML document contains a table with the ID 'data'. Also assume that there is a CSS class called 'highlight'. Write the JavaScript to add the class 'highlight' to the last row of the table.
+let lastRow = document.querySelector("#data tr:nth-last-child(1)");
+
+lastRow.classList.add("highlight");
+
+Suppose the variable 'student' refers to an object that has three fields named 'studentId', 'gpa', and 'status'. Write JavaScript code that will set the status to 'ok' if the gpa is greater than 1.5 or 'warning' if the gpa is below 1.5.
+
+if (student.gpa > 1.5){
+  student .status  = "ok";
+}
+if (student.gpa <= 1.5){
+  student.status ="warning";
+}
