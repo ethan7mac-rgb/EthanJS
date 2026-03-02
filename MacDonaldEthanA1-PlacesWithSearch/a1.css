@@ -1,0 +1,110 @@
+main{
+    display: flex;
+    margin: 0%;
+    width: 100%; 
+    justify-content: center;
+    margin: 2.5%;
+}
+table, th, td{
+    text-align: left;
+    margin-right: 2.5%;
+    border: 1.5px, solid, black;
+    padding: 5px;
+    border-collapse: collapse;
+    min-width: 12em;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 50%;
+    max-width: 100%;
+    font-size: 15pt;
+}
+th{
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 18pt;
+}
+button{
+    width: 30%;
+    height: 75%;
+}
+input{
+    width: 40%;
+    height: 65%;
+    border: black solid 1px;
+
+    
+}
+p{
+    width: 12.5%;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2%;
+}
+.inputPannel{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    background-color: plum;
+    padding: 0.5em;
+    gap: 0px;
+    border: dashed, 2px, purple;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.results{
+    background-color: lightgray;
+    padding: 1.5em;
+    border: dashed grey 2px;
+}
+.inpAndRes{
+    width: 40%;
+    float: right;
+}
+.search{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+.search p{
+    padding: 1em;
+    margin-top: 0;
+}
+.highlight{
+    background-color: yellow;
+}
+@media (max-width: 1152px){
+    table, th, td{
+    font-size: 10pt;
+    }
+    th{
+        font-size: 12pt;
+    }
+    .inpAndRes{
+        width: 50%;
+    }
+    button{
+        font-size: 8pt;
+        width: 30%;
+        height: 55%;
+    }
+    input{
+        width: 40%;
+        height: 50%;
+    }
+}
+@media (max-width: 768px){
+    .inpAndRes{
+        width: 60%;
+    }
+    input{
+        max-width: 30%;
+        height: 55%;
+    }
+    .search{
+        font-size: 10pt;
+        
+    }
+    button{
+        width: 35%;
+        height: 62.5%;
+    }
+}

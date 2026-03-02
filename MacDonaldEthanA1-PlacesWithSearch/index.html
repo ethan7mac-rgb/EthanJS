@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="a1.css">
+    <script src="a1.js"></script>
+    <title>Places With Search</title>
+</head>
+<body>
+    <h1>Places with Search</h1>
+    <main>
+        <div class="table" id="table">
+            <!-- table filled in by js on load -->
+        </div>
+        <div class="inpAndRes">
+            <div class="inputPannel">
+                <div class="search" id="citySearch">
+                    <p>City:</p>
+                    <input id="city" type="text" />
+                    <button id="btnCity">Search by City</button>
+                </div>
+                <div class="search" id="countrySearch">
+                    <p>Country:</p>
+                    <input id="country" type="text"/>
+                    <button id="btnCountry">Search by Country</button>
+                </div>
+                <div class="search" id="popSearchMin">
+                    <p>Min:</p>
+                    <input id="min" type="number"/>
+                </div>
+                <div class="search" id="popSearchMax">
+                    <p>Max:</p>
+                    <input id="max" type="number"/>
+                    <button id="btnPop">Search by Population</button>
+                </div>
+            </div>
+            <div class="resultsGroup">
+                <h1>Results</h1>
+                <div class="results" id="results">
+                    <!--Filled in by JS on button clicks-->
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
