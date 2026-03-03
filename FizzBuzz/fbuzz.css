@@ -1,0 +1,10 @@
+.highlightRed{
+  color: red;  
+}
+.highlightGrey{
+  background-color: gray;  
+}
+.hightlight{
+    background-color: gray;
+    color: red;   
+}

@@ -1,0 +1,32 @@
+body {
+    font-size: 1.1rem;
+    line-height: 1.4;
+}
+
+h1,
+h2,
+h3 {
+    font-family: sans-serif;
+}
+
+#subtitle {
+    color: red;
+}
+
+section {
+    border: solid thin blue;
+    padding: 0 1rem 1rem 1rem;
+    margin-bottom: 1rem;
+}
+
+.result {
+    display: grid;
+    grid-template-columns: 7rem 1fr;
+    row-gap: 0.5rem;
+}
+
+.resultTitle,
+.ratings,
+.average {
+    font-family: monospace;
+}

@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    font-size: 1.25em;
+    color: #333;
+}
+
+#content {
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+button {
+    font-size: 1rem;
+    padding: 10px;
+    width: 175px;
+}
+
+table,
+td,
+th {
+    border: solid thin gray;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+
+td,
+th {
+    padding: 10px;
+}
+
+td:nth-child(-n +1){
+    text-align: left;
+    background-color: lightgrey;
+    font-weight: bold;
+}
+
+td:nth-child(n + 2){
+    text-align: right;
+}
+
+.warning {
+    background-color: pink;
+}
+tr:last-child td:not(:first-child){
+    background-color: lightyellow;
+}

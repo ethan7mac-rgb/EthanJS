@@ -1,0 +1,144 @@
+{
+    "countries": [
+        {
+            "country": "Australia",
+            "population": 25599500,
+            "capital": "Canberra",
+            "languages": "English",
+            "currency": "Australian Dollar (AUD)"
+        },
+        {
+            "country": "Brazil",
+            "population": 210147125,
+            "capital": "Brasilia",
+            "languages": "Portuguese",
+            "currency": "Real (BRL)"
+        },
+        {
+            "country": "Canada",
+            "population": 37797496,
+            "capital": "Ottawa",
+            "languages": "English, French",
+            "currency": "Canadian Dollar (CAD)"
+        },
+        {
+            "country": "China",
+            "population": 1427647786,
+            "capital": "Beijing",
+            "languages": "Standard Chinese",
+            "currency": "Renminbi (CNY)"
+        },
+        {
+            "country": "Cuba",
+            "population": 11209628,
+            "capital": "Havana",
+            "languages": "Spanish",
+            "currency": "Peso (CUP), Convertible pesoa (CUC)"
+        },
+        {
+            "country": "Egypt",
+            "population": 99581200,
+            "capital": "Cairo",
+            "languages": "Arabic",
+            "currency": "Egyptian pound (EGP)"
+        },
+        {
+            "country": "Ethiopia",
+            "population": 109224414,
+            "capital": "Addis Ababa",
+            "languages": "Amharic",
+            "currency": "Birr (ETB)"
+        },
+        {
+            "country": "Germany",
+            "population": 83019200,
+            "capital": "Berlin",
+            "languages": "German",
+            "currency": "Euro (EUR)"
+        },
+        {
+            "country": "Guatemala",
+            "population": 17263239,
+            "capital": "Guatemala City",
+            "languages": "Spanish",
+            "currency": "Quetzal (GTQ)"
+        },
+        {
+            "country": "Iran",
+            "population": 82531700,
+            "capital": "Tehran",
+            "languages": "Persian",
+            "currency": "Rial (IRR)"
+        },
+        {
+            "country": "Italy",
+            "population": 60359546,
+            "capital": "Rome",
+            "languages": "Italian",
+            "currency": "Euro (EUR)"
+        },
+        {
+            "country": "Jamaica",
+            "population": 2890299,
+            "capital": "Kingston",
+            "languages": "English",
+            "currency": "Jamaican Dollar (JMD)"
+        },
+        {
+            "country": "Jordan",
+            "population": 10407793,
+            "capital": "Amman",
+            "languages": "Arabic",
+            "currency": "Jordanian Dinar (JOD)"
+        },
+        {
+            "country": "Kazakhstan",
+            "population": 18448600,
+            "capital": "Nur-Sultan",
+            "languages": "Kazakh, Russian",
+            "currency": "Tenge (KZT)"
+        },
+        {
+            "country": "Morocco",
+            "population": 35581294,
+            "capital": "Rabat",
+            "languages": "Arabic, Berber",
+            "currency": "Moroccan Dirham (MAD)"
+        },
+        {
+            "country": "Pakistan",
+            "population": 207800000,
+            "capital": "Islamabad",
+            "languages": "English, Urdu",
+            "currency": "Pakistani Rupee (PKR)"
+        },
+        {
+            "country": "Russia",
+            "population": 146804372,
+            "capital": "Moscow",
+            "languages": "Russian",
+            "currency": "Russian Ruble (RUB)"
+        },
+        {
+            "country": "Singapore",
+            "population": 5638700,
+            "capital": "Singapore",
+            "languages": "English, Malay, Mandarin, Tamil",
+            "currency": "Singapore Dollar (SGD)"
+        },
+        {
+            "country": "Thailand",
+            "population": 69428453,
+            "capital": "Bangkok",
+            "languages": "Thai",
+            "currency": "Baht (THB)"
+        },
+        {
+            "country": "Venezuela",
+            "population": 28887118,
+            "capital": "Caracas",
+            "languages": "Spanish",
+            "currency": "Bolivar Soberano (VES)"
+        }
+    ]
+}

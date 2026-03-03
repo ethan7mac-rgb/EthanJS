@@ -1,0 +1,186 @@
+{
+    "restaurantName": "Lancaster Diner",
+    "surveyDate": { "year": 2026, "month": 1, "day": 17 },
+    "ratings": [
+        {
+            "quality": 4,
+            "value": 3,
+            "service": 4,
+            "atmosphere": 2
+        },
+        {
+            "quality": 2,
+            "value": 2,
+            "service": 2,
+            "atmosphere": 2
+        },
+        {
+            "quality": 1,
+            "value": 1,
+            "service": 1,
+            "atmosphere": 4
+        },
+        {
+            "quality": 4,
+            "value": 4,
+            "service": 4,
+            "atmosphere": 4
+        },
+        {
+            "quality": 4,
+            "value": 2,
+            "service": 2,
+            "atmosphere": 4
+        },
+        {
+            "quality": 4,
+            "value": 1,
+            "service": 4,
+            "atmosphere": 1
+        },
+        {
+            "quality": 2,
+            "value": 3,
+            "service": 3,
+            "atmosphere": 3
+        },
+        {
+            "quality": 1,
+            "value": 1,
+            "service": 1,
+            "atmosphere": 4
+        },
+        {
+            "quality": 1,
+            "value": 1,
+            "service": 4,
+            "atmosphere": 3
+        },
+        {
+            "quality": 2,
+            "value": 2,
+            "service": 4,
+            "atmosphere": 4
+        },
+        {
+            "quality": 3,
+            "value": 2,
+            "service": 3,
+            "atmosphere": 3
+        },
+        {
+            "quality": 3,
+            "value": 1,
+            "service": 3,
+            "atmosphere": 3
+        },
+        {
+            "quality": 2,
+            "value": 2,
+            "service": 4,
+            "atmosphere": 4
+        },
+        {
+            "quality": 1,
+            "value": 1,
+            "service": 3,
+            "atmosphere": 3
+        },
+        {
+            "quality": 2,
+            "value": 1,
+            "service": 3,
+            "atmosphere": 4
+        },
+        {
+            "quality": 1,
+            "value": 1,
+            "service": 4,
+            "atmosphere": 3
+        },
+        {
+            "quality": 2,
+            "value": 2,
+            "service": 4,
+            "atmosphere": 2
+        },
+        {
+            "quality": 2,
+            "value": 2,
+            "service": 2,
+            "atmosphere": 4
+        },
+        {
+            "quality": 3,
+            "value": 2,
+            "service": 4,
+            "atmosphere": 4
+        },
+        {
+            "quality": 4,
+            "value": 4,
+            "service": 4,
+            "atmosphere": 4
+        },
+        {
+            "quality": 4,
+            "value": 1,
+            "service": 4,
+            "atmosphere": 4
+        },
+        {
+            "quality": 4,
+            "value": 1,
+            "service": 4,
+            "atmosphere": 4
+        },
+        {
+            "quality": 2,
+            "value": 2,
+            "service": 4,
+            "atmosphere": 4
+        },
+        {
+            "quality": 2,
+            "value": 2,
+            "service": 4,
+            "atmosphere": 4
+        },
+        {
+            "quality": 2,
+            "value": 2,
+            "service": 4,
+            "atmosphere": 3
+        },
+        {
+            "quality": 1,
+            "value": 1,
+            "service": 4,
+            "atmosphere": 4
+        },
+        {
+            "quality": 3,
+            "value": 3,
+            "service": 3,
+            "atmosphere": 3
+        },
+        {
+            "quality": 2,
+            "value": 2,
+            "service": 3,
+            "atmosphere": 4
+        },
+        {
+            "quality": 3,
+            "value": 3,
+            "service": 3,
+            "atmosphere": 4
+        },
+        {
+            "quality": 2,
+            "value": 1,
+            "service": 1,
+            "atmosphere": 3
+        }
+    ]
+}
